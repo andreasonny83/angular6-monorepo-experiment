@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 export class Library1Service {
 
   get version() {
-    return 'dev';
+    return 'version: dev';
   }
 
   constructor() { }
