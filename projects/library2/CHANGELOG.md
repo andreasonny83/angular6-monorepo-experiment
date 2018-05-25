@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.0.0"></a>
+# [1.0.0](https://andreasonny83/andreasonny83/angular6-monorepo-experiment/compare/v0.4.1...v1.0.0) (2018-05-25)
+
+
+
+
+**Note:** Version bump only for package library2
+
 <a name="0.4.2"></a>
 ## [0.4.2](https://andreasonny83/andreasonny83/angular6-monorepo-experiment/compare/v0.4.1...v0.4.2) (2018-05-25)
 
