@@ -9,5 +9,9 @@ export class Library1Service {
     return 'version: dev';
   }
 
+  get name() {
+    return 'app name: Library 1';
+  }
+
   constructor() { }
 }
