@@ -11,7 +11,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "release": "lerna publish --conventional-commits --skip-npm"
+    "release": "lerna publish --conventional-commits --independent --skip-npm"
   },
   "author": "",
   "license": "MIT",

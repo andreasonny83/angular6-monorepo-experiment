@@ -9,5 +9,9 @@ export class Library2Service {
     return 'dev';
   }
 
+  get name() {
+    return 'Library2';
+  }
+
   constructor() { }
 }
