@@ -25,3 +25,5 @@ Changelog [available here](https://github.com/andreasonny83/angular6-monorepo-ex
 ## License
 
 MIT License © [Andrea SonnY](https://andreasonny.mit-license.org)
+
+[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
