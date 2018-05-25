@@ -3,5 +3,5 @@
   "packages": [
     "projects/*"
   ],
-  "version": "independent"
+  "version": "0.3.0"
 }
