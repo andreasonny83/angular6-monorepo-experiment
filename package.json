@@ -12,9 +12,10 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "commit": "git-cz",
-    "release": "lerna publish --conventional-commits --force-publish --skip-npm",
-    "release:ci": "lerna publish --yes --conventional-commits --force-publish --skip-npm",
-    "postrelease:ci": "git push --tags origin master"
+    "bootstrap": "lerna bootstrap",
+    "release:manual": "lerna publish --conventional-commits --force-publish --skip-npm",
+    "release": "lerna publish --yes --conventional-commits --force-publish --skip-npm",
+    "postrelease": "git push --tags origin master"
   },
   "author": "",
   "license": "MIT",
