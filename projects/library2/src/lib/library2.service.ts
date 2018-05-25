@@ -5,5 +5,9 @@ import { Injectable } from '@angular/core';
 })
 export class Library2Service {
 
+  get version() {
+    return 'dev';
+  }
+
   constructor() { }
 }
